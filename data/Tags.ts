@@ -1,0 +1,1 @@
+export const tags: string[] = ['saludable', 'educación', 'compras', 'hogar', 'trabajo']
